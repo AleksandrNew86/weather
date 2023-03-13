@@ -1,0 +1,11 @@
+main {
+    min-height: 75vh;
+    display: flex;
+    flex-direction: column;
+    background: beige;
+}
+
+h1 {
+    margin: 10px auto;
+    display: block;
+}

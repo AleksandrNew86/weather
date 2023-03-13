@@ -1,0 +1,11 @@
+header {
+    height: 15vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("../../public/weather.jpg");
+    background-size: contain;
+    color: #05083f;
+    font-size: 4rem;
+    font-weight: bold;
+}
