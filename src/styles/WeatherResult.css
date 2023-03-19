@@ -1,0 +1,27 @@
+.div-for-weather {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px auto;
+    flex-wrap: wrap;
+}
+
+.div-for-one-weather {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid gray;
+    border-radius: 5px;
+    margin: 10px auto;
+    flex-wrap: wrap;
+}
+div .button-another-city{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px auto;
+}
+
+li {
+    list-style-type: none;
+}

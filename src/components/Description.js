@@ -2,7 +2,7 @@ import "../styles/Description.css"
 function Description() {
     return (
         <div className="common-description">
-            Choose the city in which you want to know the weather and a city.
+            Нажмите кнопку найти и выберите район на карте в котором вас интересует погода.
         </div>
     );
 }
